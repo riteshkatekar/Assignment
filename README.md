@@ -37,13 +37,6 @@ npm run dev
 - **PATCH** (`http://localhost:5000/api/assistant/:id`): Update an assistant by id
 - **DELETE** (`http://localhost:5000/api/assistant/:id`): Delete an assistant by id
 
-### Postman Collection
-
-To test the API endpoints, you can use the provided Postman collection.
-
-1. Import the Postman collection file (`NodeExpressMongoDB.postman_collection.json`) into Postman.
-2. Update the environment variables in Postman if necessary.
-3. Use the collection to send requests to the API endpoints.
 
 --- 
 
