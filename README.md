@@ -3,7 +3,7 @@ This is a simple Node.js web application built with Express.js and MongoDB.
 
 Installation
 Clone this repository:
-git clone [https://github.com/your-username/your-repo.git](https://github.com/riteshkatekar/Assignment.git)
+git clone (https://github.com/riteshkatekar/Assignment.git)
 
 Install dependencies:
 npm install
